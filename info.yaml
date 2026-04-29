@@ -1,5 +1,5 @@
 # Tiny Tapeout project information (Wokwi project)
-project: Sample project IC Design bootcamp
+project: "Sample project IC Design bootcamp"
   wokwi_id:     462615659877219329       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "ieee IC design bootcamp"      # Project title
   author:       "Lloyd Landicho"      # Your name
